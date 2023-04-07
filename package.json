@@ -1,11 +1,11 @@
 {
-  "name": "@trupropel/aws-s3-file-upload",
+  "name": "@trade-export/aws-s3-file-upload",
   "version": "0.0.2",
   "description": "Library for uploading to AWS S3",
   "author": {
     "name": "Trupropel <info@trupropel.com> (http://www.trupropel.com)"
   },
-  "homepage": "https://github.com/trupropel/aws-s3-file-upload#readme",
+  "homepage": "https://github.com/trade-export/aws-s3-file-upload#readme",
   "keywords": [
     "react",
     "react-native",
@@ -48,13 +48,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trupropel/aws-s3-file-upload"
+    "url": "https://github.com/trade-export/aws-s3-file-upload"
   },
   "bugs": {
     "url": "https://github.com/trupropel/aws-s3-file-upload/issues"
   },
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/trupropel"
+    "registry": "https://npm.pkg.github.com/trade-export"
   }
 }
